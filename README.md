@@ -3,4 +3,4 @@
 - 📕 Bachelor degree in Physics (University of Padua, Italy);
 - 📘 Master student: Physics of fundamental interactions at University of Padua.
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittoria-pavanello-0b6082223/)
