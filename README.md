@@ -1,7 +1,7 @@
 ## Information 
 
 - Hi! I'm Vittoria Pavanello;
-- 23, Italian, she/her;
+- 24, Italian, she/her;
 - Bachelor degree in Physics (University of Padua, Italy);
 - Master student: Physics of fundamental interactions at University of Padua.
 
